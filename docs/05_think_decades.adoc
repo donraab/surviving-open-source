@@ -1,0 +1,22 @@
+== Think in Decades
+
+* Eclipse Collections
+** First decade -- Development by a single Financial Services Firm
+*** Free as in "beer"
+*** 4 Committers
+*** ~15 Contributors
+*** ~20K downloads per month
+** Second Decade -- Development and advocacy at the Eclipse Foundation
+*** Free as in "speech"
+*** 6 Committers
+*** ~100 Contributors
+*** ~220K downloads per month
+** Third Decade -- Driven by community contributions at the Eclipse Foundation
+*** Free as in "me"
+*** More Committers wanted!
+*** More Contributors wanted!
+*** More Consumers wanted!
+
+link:./00_toc.adoc[TOC] /
+link:04_planning_survival.adoc[Planning Survival] /
+link:./06_review_goals.adoc[Review Goals]

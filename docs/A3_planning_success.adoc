@@ -1,0 +1,16 @@
+== Planning for Success in Open Source
+
+* Establish your goals
+* Measure, Execute, Repeat
+* Marketing Strategy
+* Funding
+* Getting Engineers to Commit
+* Engaging the Community
+* Joining a Foundation
+* References
+** "link:https://www.slideshare.net/finosfoundation/they-cant-hear-you-on-mute-96411236[They can't hear you on mute]" -- Open Source Strategy Forum, FINOS Foundation, 2017
+** link:https://www.youtube.com/watch?v=-jGpWnO-uI0[Fireside chat w/ Gab Columbro] -- Open Source Strategy Forum, FINOS Foundation, 2019
+
+link:./00_toc.adoc[TOC] /
+link:A2_mystory_decadetwo.adoc[My OSS Story - Decade two] /
+link:./A0_appendix.adoc[Appendix]

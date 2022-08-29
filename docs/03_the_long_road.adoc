@@ -1,0 +1,16 @@
+== The Long Road of Eclipse Collections
+
+* Eclipse Collections' Long Road -- 2004 - 2022
+** Caramel - 2004 (Goldman Sachs Proprietary)
+** link:https://github.com/goldmansachs/gs-collections[GS Collections] - 2012 (Goldman Sachs OSS)
+image:../assets/gsc_contributions.png[A]
+** link:https://github.com/eclipse/eclipse-collections[Eclipse Collections] - 2015 (OSS at Eclipse Foundation)
+image:../assets/ec_contributions.png[B]
+* Keys to my survival in open source: Passion, Patience, Persistence
+** I created something that I needed and that I believe in
+** Open Sourcing anything in Financial Services requires grit
+
+
+link:./00_toc.adoc[TOC] /
+link:02_journey.adoc[Intro] /
+link:./04_planning_survival.adoc[Planning for Survival]

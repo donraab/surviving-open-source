@@ -1,0 +1,13 @@
+== Planning for Survival
+
+* Think in decades
+* Review your goals
+* Grow the core team
+* Celebrate wins
+* Prioritize self care
+* Let it go
+* Look for forks in the road
+
+link:./00_toc.adoc[TOC] /
+link:03_the_long_road.adoc[The Long Road] /
+link:./05_think_decades.adoc[Think Decades]

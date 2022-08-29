@@ -1,0 +1,11 @@
+== Prioritize self care
+
+* Take regular breaks to avoid or address burnout
+* Spend time with family and friends
+* Exercise regularly
+* Do things that bring you joy
+* Encourage the same for your committers and contributors
+
+link:./00_toc.adoc[TOC] /
+link:08_celebrate_wins.adoc[Celebrate Wins] /
+link:./10_let_it_go.adoc[Let it go]
