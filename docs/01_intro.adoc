@@ -13,6 +13,7 @@
 ** Medium: link:https://donraab.medium.com[donraab.medium.com]
 
 ---
+===== #IntelliJIDEAConf @TheDonRaab
 
 link:00_toc.adoc[TOC] /
 link:./02_journey.adoc[The Open Source Journey]

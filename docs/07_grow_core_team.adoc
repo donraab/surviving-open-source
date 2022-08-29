@@ -7,6 +7,9 @@
 ** Build consensus on direction with the core team
 ** Give credit, kudos and thanks publicly and regularly
 
+---
+===== #IntelliJIDEAConf @TheDonRaab
+
 link:./00_toc.adoc[TOC] /
 link:06_review_goals.adoc[Review Goals] /
 link:./08_celebrate_wins.adoc[Celebrate Wins]

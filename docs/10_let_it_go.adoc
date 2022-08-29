@@ -9,6 +9,9 @@
 ** link:https://medium.com/javarevisited/blog-series-the-missing-java-data-structures-no-one-ever-told-you-about-17f34cc4b7e2?source=friends_link&sk=9403ae8464ae3477bfc1e52119c1576d[Blog Series: The missing Java data structures no one ever told you about]
 * No need to abandon your work completely... just let go of the controls
 
+---
+===== #IntelliJIDEAConf @TheDonRaab
+
 link:./00_toc.adoc[TOC] /
 link:09_prioritize_self_care.adoc[Prioritize self care] /
 link:./11_look_for_forks.adoc[Look for forks]

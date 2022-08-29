@@ -1,10 +1,15 @@
 == Prioritize self care
 
-* Take regular breaks to avoid or address burnout
+image:../assets/selfcare.png[Bike,320,float=right]
+
+* Take regular breaks to avoid and address burnout
 * Spend time with family and friends
 * Exercise regularly
 * Do things that bring you joy
 * Encourage the same for your committers and contributors
+
+---
+===== #IntelliJIDEAConf @TheDonRaab
 
 link:./00_toc.adoc[TOC] /
 link:08_celebrate_wins.adoc[Celebrate Wins] /

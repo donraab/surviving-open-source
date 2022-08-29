@@ -17,6 +17,9 @@
 *** More Contributors wanted!
 *** More Consumers wanted!
 
+---
+===== #IntelliJIDEAConf @TheDonRaab
+
 link:./00_toc.adoc[TOC] /
 link:04_planning_survival.adoc[Planning Survival] /
 link:./06_review_goals.adoc[Review Goals]

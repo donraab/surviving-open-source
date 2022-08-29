@@ -1,4 +1,4 @@
-== Surviving Open Source
+== Surviving Open Source -- TOC
 
 * link:01_title.adoc[Title]
 * link:01_intro.adoc[Introduction]
@@ -13,3 +13,7 @@
 * link:10_let_it_go.adoc[Let it go]
 * link:11_look_for_forks.adoc[Look for forks in the road]
 * link:A0_appendix.adoc[Appendix]
+
+---
+===== #IntelliJIDEAConf @TheDonRaab
+
