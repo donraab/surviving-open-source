@@ -12,8 +12,9 @@
 ** Tweets
 
 ---
-===== #IntelliJIDEAConf @TheDonRaab
 
 link:./00_toc.adoc[TOC] /
 link:07_grow_core_team.adoc[Grow the Core Team] /
 link:./09_prioritize_self_care.adoc[Prioritize Self Care]
+
+===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

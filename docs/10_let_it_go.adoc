@@ -10,8 +10,9 @@
 * No need to abandon your work completely... just let go of the controls
 
 ---
-===== #IntelliJIDEAConf @TheDonRaab
 
 link:./00_toc.adoc[TOC] /
 link:09_prioritize_self_care.adoc[Prioritize self care] /
 link:./11_look_for_forks.adoc[Look for forks]
+
+===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

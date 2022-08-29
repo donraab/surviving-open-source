@@ -6,6 +6,7 @@ image:../assets/longroad.png[A]
 
 === Donald Raab
 ---
-===== #IntelliJIDEAConf @TheDonRaab
 
 link:01_intro.adoc[Introduction]
+
+===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

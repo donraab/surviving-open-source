@@ -12,8 +12,9 @@
 ** link:https://www.youtube.com/watch?v=-jGpWnO-uI0[Fireside chat w/ Gab Columbro] -- Open Source Strategy Forum, FINOS Foundation, 2019
 
 ---
-===== #IntelliJIDEAConf @TheDonRaab
 
 link:./00_toc.adoc[TOC] /
 link:A2_mystory_decadetwo.adoc[My OSS Story - Decade two] /
 link:./A0_appendix.adoc[Appendix]
+
+===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

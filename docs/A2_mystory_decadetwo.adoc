@@ -16,8 +16,9 @@
 image:../assets/ec_stars.png[Eclipse Collections GitHub stars]
 
 ---
-===== #IntelliJIDEAConf @TheDonRaab
 
 link:./00_toc.adoc[TOC] /
 link:A1_mystory_decadeone.adoc[My OSS Story - Decade one] /
 link:./A3_planning_success.adoc[Planning for success]
+
+===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]
