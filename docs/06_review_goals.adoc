@@ -31,7 +31,7 @@
 
 |Create JSR for Collections 2.0
 |#Abandoned#
-|#I'm too old for this :)#
+|Not feasible without funding/support
 |===
 
 * My Goals in 2022

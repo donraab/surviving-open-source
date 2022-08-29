@@ -2,7 +2,7 @@
 
 image:../assets/selfcare.png[Bike,320,float=right]
 
-* Take regular breaks to avoid and address burnout
+* Take breaks to avoid and address burnout
 * Spend time with family and friends
 * Exercise regularly
 * Do things that bring you joy
