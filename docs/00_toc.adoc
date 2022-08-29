@@ -1,6 +1,6 @@
 == Surviving Open Source -- TOC
 
-* link:01_title.adoc[Title]
+* link:00_title.adoc[Title]
 * link:01_intro.adoc[Introduction]
 * link:02_journey.adoc[Many Open Source Journeys]
 * link:03_the_long_road.adoc[The Long Road]

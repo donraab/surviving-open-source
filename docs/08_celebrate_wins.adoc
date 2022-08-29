@@ -4,6 +4,7 @@
 ** Code Contributions
 ** Library usage
 ** Documentation
+** Graphics
 ** Web site language translations
 ** Articles, Blogs, Talks, Advocacy
 ** Anniversaries
