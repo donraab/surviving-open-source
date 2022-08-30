@@ -9,5 +9,3 @@
 link:./00_toc.adoc[⬆️ TOC] /
 link:11_look_for_forks.adoc[⬅️ Fork in the road] /
 link:./A1_oss_story_decadeone.adoc[➡️ An OSS Story - Decade one]
-
-===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

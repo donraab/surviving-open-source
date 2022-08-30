@@ -11,12 +11,10 @@
 * 2020 -- link:https://twitter.com/sirishapratha[Sirisha Pratha] link:https://projects.eclipse.org/projects/technology.collections/elections/election-sirisha-pratha-committer-eclipse-collections[elected Committer] for EC
 * 2021 -- link:https://donraab.medium.com/eclipse-collections-11-0-released-d14df63f5d1d?source=friends_link&sk=74bad1fcf0f384fba241041c8383502b[EC 11.0 released - blog]
 * 2022 -- link:https://medium.com/javarevisited/eclipse-collections-11-1-released-acca6905585a?source=friends_link&sk=901bc67401466f1d06bb9376f4b1dba2[EC 11.1 released - blog]
-image:../assets/ec_stars.png[Eclipse Collections GitHub stars]
+image:../assets/ec_stars.png[Eclipse Collections GitHub stars,640]
 
 ---
 
 link:./00_toc.adoc[⬆️ TOC] /
 link:A1_oss_story_decadeone.adoc[⬅️ An OSS Story - Decade one] /
 link:./A3_planning_success.adoc[➡️ Planning for success]
-
-===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

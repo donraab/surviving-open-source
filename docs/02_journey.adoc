@@ -7,6 +7,7 @@
 ** Committer
 ** Project Lead
 ** Sponsor
+** Facilitator
 ** Creator - *"The Long Road"*
 * Many great examples of *"The Long Road"* in the Java ecosystem
 ** OpenJDK, JUnit, JakartaEE, NetBeans, Eclipse, Tomcat, Log4J, EclipseLink, Hibernate, Spring, Apache Commons, Groovy, Google Guava, Hadoop, IntelliJ IDEA, Neo4J, Cassandra, Kafka, Jackson
@@ -16,5 +17,3 @@
 link:./00_toc.adoc[⬆️ TOC] /
 link:01_intro.adoc[⬅️ Intro] /
 link:./03_the_long_road.adoc[➡️ The Long Road]
-
-===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

@@ -19,5 +19,3 @@
 link:./00_toc.adoc[⬆️ TOC] /
 link:07_grow_the_community.adoc[⬅️ Grow the Community] /
 link:./09_prioritize_self_care.adoc[➡️ Prioritize Self Care]
-
-===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]
