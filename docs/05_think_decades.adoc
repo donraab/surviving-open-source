@@ -18,8 +18,8 @@
 
 ---
 
-link:./00_toc.adoc[TOC] /
-link:04_planning_survival.adoc[Planning Survival] /
-link:./06_review_goals.adoc[Review Goals]
+link:./00_toc.adoc[⬆️ TOC] /
+link:04_planning_survival.adoc[⬅️ Planning Survival] /
+link:./06_review_goals.adoc[➡️ Review Goals]
 
 ===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

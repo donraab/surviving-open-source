@@ -13,8 +13,8 @@
 
 ---
 
-link:./00_toc.adoc[TOC] /
-link:A2_oss_story_decadetwo.adoc[An OSS Story - Decade two] /
-link:./A0_appendix.adoc[Appendix]
+link:./00_toc.adoc[⬆️ TOC] /
+link:A2_oss_story_decadetwo.adoc[⬅️ An OSS Story - Decade two] /
+link:./A0_appendix.adoc[➡️ Appendix]
 
 ===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

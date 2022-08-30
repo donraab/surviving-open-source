@@ -4,19 +4,19 @@
 * 2015 -- link:https://www.infoq.com/news/2016/01/GS-Collections-Eclipse-Foundn/[GS Collections 7.0 -> Eclipse Collections 7.0] at Eclipse Foundation
 * 2016 -- link:https://github.com/eclipse/eclipse-collections/releases/tag/8.0.0[EC 8.0 released]
 * 2017 -- link:https://twitter.com/NikhilNanivade[Nikhil Nanivadekar] link:https://projects.eclipse.org/projects/technology.collections/elections/election-nikhil-nanivadekar-project-lead-eclipse-collections[elected Project Lead] for EC
-* 2017 -- link:https://donraab.medium.com/nine-features-in-eclipse-collections-9-0-a2ca97dfdf74?source=friends_link&sk=1728577e9ef0b3c03f58791b5bade2be[EC 9.0 released]
 * 2017 -- Started blogging on Medium
-* 2019 -- link:https://medium.com/oracledevs/eclipse-collections-10-0-released-49bae6a4b4c6?source=friends_link&sk=a94837d5317ce2863be2c259fee8db41[EC 10.0 released]
+* 2017 -- link:https://donraab.medium.com/nine-features-in-eclipse-collections-9-0-a2ca97dfdf74?source=friends_link&sk=1728577e9ef0b3c03f58791b5bade2be[EC 9.0 released - blog]
+* 2019 -- link:https://medium.com/oracledevs/eclipse-collections-10-0-released-49bae6a4b4c6?source=friends_link&sk=a94837d5317ce2863be2c259fee8db41[EC 10.0 released - blog]
 * 2020 -- EC included in link:https://blogs.oracle.com/javamagazine/post/the-top-25-greatest-java-apps-ever-written[The 25 greated Java apps ever written] article
 * 2020 -- link:https://twitter.com/sirishapratha[Sirisha Pratha] link:https://projects.eclipse.org/projects/technology.collections/elections/election-sirisha-pratha-committer-eclipse-collections[elected Committer] for EC
-* 2021 -- link:https://donraab.medium.com/eclipse-collections-11-0-released-d14df63f5d1d?source=friends_link&sk=74bad1fcf0f384fba241041c8383502b[EC 11.0 released]
-* 2022 -- link:https://medium.com/javarevisited/eclipse-collections-11-1-released-acca6905585a?source=friends_link&sk=901bc67401466f1d06bb9376f4b1dba2[EC 11.1 released]
+* 2021 -- link:https://donraab.medium.com/eclipse-collections-11-0-released-d14df63f5d1d?source=friends_link&sk=74bad1fcf0f384fba241041c8383502b[EC 11.0 released - blog]
+* 2022 -- link:https://medium.com/javarevisited/eclipse-collections-11-1-released-acca6905585a?source=friends_link&sk=901bc67401466f1d06bb9376f4b1dba2[EC 11.1 released - blog]
 image:../assets/ec_stars.png[Eclipse Collections GitHub stars]
 
 ---
 
-link:./00_toc.adoc[TOC] /
-link:A1_oss_story_decadeone.adoc[My OSS Story - Decade one] /
-link:./A3_planning_success.adoc[Planning for success]
+link:./00_toc.adoc[⬆️ TOC] /
+link:A1_oss_story_decadeone.adoc[⬅️ An OSS Story - Decade one] /
+link:./A3_planning_success.adoc[➡️ Planning for success]
 
 ===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

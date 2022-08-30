@@ -12,8 +12,8 @@ image:../assets/ec_contributions.png[B]
 
 ---
 
-link:./00_toc.adoc[TOC] /
-link:02_journey.adoc[Intro] /
-link:./04_planning_survival.adoc[Planning for Survival]
+link:./00_toc.adoc[⬆️ TOC] /
+link:02_journey.adoc[⬅️ Intro] /
+link:./04_planning_survival.adoc[➡️ Planning for Survival]
 
 ===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

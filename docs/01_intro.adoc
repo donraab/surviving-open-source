@@ -3,18 +3,18 @@
 * Introduction - Donald Raab
 ** Managing Director / Distinguished Engineer, BNY Mellon
 ** Creator, Project Lead, link:https://github.com/eclipse/eclipse-collections[Eclipse Collections] open source Java library
-** Java Champion (2018 Edition)
+** Java Champion (link:https://blogs.oracle.com/java/post/30-new-java-champions-confirmed-in-2018[2018 Edition])
 ** link:https://jcp.org/en/press/news/ec-feature#raab[Primary Representative for BNY Mellon] on the JCP Executive Committee
 ** Member of the JSR 335 Expert Group (Lambdas/Streams)
-** Contributing Author, "97 Things Every Java Programmer Should Know" - O'Reilly
-*** link:https://medium.com/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c?source=friends_link&sk=db77a42b37789576e285cd2e530be53c[Learn to Kata and Kata to Learn]
+** Contributing Author, "link:https://www.oreilly.com/library/view/97-things-every/9781491952689/[97 Things Every Java Programmer Should Know]" - O'Reilly
+*** Article: link:https://medium.com/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c?source=friends_link&sk=db77a42b37789576e285cd2e530be53c[Learn to Kata and Kata to Learn]
 ** IntelliJ IDEA User for 20 years -- I develop Eclipse Collections using IntelliJ Community Edition
 ** Twitter: link:https://twitter.com/TheDonRaab[TheDonRaab]
 ** Medium: link:https://donraab.medium.com[donraab.medium.com]
 
 ---
 
-link:00_toc.adoc[TOC] /
-link:./02_journey.adoc[The Open Source Journey]
+link:00_toc.adoc[⬆️ TOC] /
+link:./02_journey.adoc[➡️ The Open Source Journey]
 
 ===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

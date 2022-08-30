@@ -10,8 +10,8 @@
 
 ---
 
-link:./00_toc.adoc[TOC] /
-link:03_the_long_road.adoc[The Long Road] /
-link:./05_think_decades.adoc[Think Decades]
+link:./00_toc.adoc[⬆️ TOC] /
+link:03_the_long_road.adoc[⬅️ The Long Road] /
+link:./05_think_decades.adoc[➡️ Think Decades]
 
 ===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]
