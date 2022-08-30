@@ -6,9 +6,9 @@
 image:../assets/gsc_contributions.png[A]
 ** link:https://github.com/eclipse/eclipse-collections[Eclipse Collections] - 2015 (OSS at Eclipse Foundation)
 image:../assets/ec_contributions.png[B]
-* Keys to my survival in open source: Passion, Patience, Persistence
-** I created something that I needed and that I believe in
-** Open Sourcing anything in Financial Services requires grit
+* Two keys to survival
+** Grit
+** *A lot of help, support and advocacy from my friends and the community*
 
 ---
 

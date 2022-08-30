@@ -1,4 +1,4 @@
-== My OSS story - Decade One
+== An OSS story - Decade One
 
 * 2004 -- Created Caramel in Goldman Sachs (GS)
 * 2011 -- Joined JSR 335 Expert Group (libraries)
@@ -15,6 +15,6 @@ image:../assets/gsc_stars.png[GS Collections GitHub stars]
 
 link:./00_toc.adoc[TOC] /
 link:A0_appendix.adoc[Appendix] /
-link:./A2_mystory_decadetwo.adoc[My OSS Story - Decade two]
+link:./A2_oss_story_decadetwo.adoc[My OSS Story - Decade two]
 
 ===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]

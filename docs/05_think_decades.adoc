@@ -1,12 +1,12 @@
 == Think in Decades
 
 * Eclipse Collections
-** link:A1_mystory_decadeone.adoc[First decade] -- Development by a single Financial Services Firm
+** link:A1_oss_story_decadeone.adoc[First decade] -- Development by a single Financial Services Firm
 *** Free as in "beer" - link:https://github.com/goldmansachs/gs-collections[GS Collections]
 *** 4 Committers
 *** ~15 Contributors
 *** ~20K downloads per month
-** link:A2_mystory_decadetwo.adoc[Second Decade] -- Development and advocacy at the Eclipse Foundation
+** link:A2_oss_story_decadetwo.adoc[Second Decade] -- Development and advocacy at the Eclipse Foundation
 *** Free as in "speech" - link:https://github.com/eclipse/eclipse-collections[Eclipse Collections]
 *** 6 Committers
 *** ~100 Contributors

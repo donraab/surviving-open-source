@@ -7,7 +7,7 @@
 * link:04_planning_survival.adoc[Planning for survival]
 * link:05_think_decades.adoc[Think in decades]
 * link:06_review_goals.adoc[Review your goals]
-* link:07_grow_core_team.adoc[Grow the core team]
+* link:07_grow_the_community.adoc[Grow the Community]
 * link:08_celebrate_wins.adoc[Celebrate wins]
 * link:09_prioritize_self_care.adoc[Prioritize self care]
 * link:10_let_it_go.adoc[Let it go]

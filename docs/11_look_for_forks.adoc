@@ -8,7 +8,7 @@
 ** link:https://mail.openjdk.org/pipermail/core-libs-dev/2016-May/041007.html[Do something] -- core-libs-dev (link:https://twitter.com/itohiro73[Hiroshi Ito], link:https://twitter.com/PaulSandoz[Paul Sandoz]), May 2016
 * ```RandomAccessSpliterator``` - contained in ```AbstractList``` in Java 9, September 2017
 image:../assets/ras.png[RandomAccessSpliterator,640]
-* It's possible to get something into the OpenJDK if you have passion, patience and persistence
+* It's possible to get an idea into the OpenJDK if you have passion, patience and persistence
 
 ---
 
