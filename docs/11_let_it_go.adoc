@@ -10,5 +10,5 @@
 ---
 
 link:./00_toc.adoc[⬆️ TOC] /
-link:09_prioritize_self_care.adoc[⬅️ Prioritize self care] /
-link:./11_look_for_forks.adoc[➡️ Fork in the road]
+link:10_look_for_forks.adoc[⬅️ Look for forks in the road] /
+link:./A0_appendix.adoc[➡️ Appendix]

@@ -12,4 +12,4 @@ image:../assets/selfcare.png[Bike,320,float=right]
 
 link:./00_toc.adoc[⬆️ TOC] /
 link:08_celebrate_wins.adoc[⬅️ Celebrate Wins] /
-link:./10_let_it_go.adoc[⬆️ Let it go]
+link:./10_look_for_forks.adoc[➡️ Look for forks in the road]

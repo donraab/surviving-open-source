@@ -10,8 +10,8 @@
 * link:07_grow_the_community.adoc[Grow the Community]
 * link:08_celebrate_wins.adoc[Celebrate wins]
 * link:09_prioritize_self_care.adoc[Prioritize self care]
-* link:10_let_it_go.adoc[Let it go]
-* link:11_look_for_forks.adoc[Look for forks in the road]
+* link:10_look_for_forks.adoc[Look for forks in the road]
+* link:11_let_it_go.adoc[Let it go]
 * link:A0_appendix.adoc[Appendix]
 
 ---
