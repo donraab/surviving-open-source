@@ -1,6 +1,6 @@
 == Look for forks in the road
 
-* When you see an interesting opportunity, go for it!
+* "When you come to a fork in the road... take it." -Yogi Berra
 * link:https://donraab.medium.com/traveling-the-road-from-idea-all-the-way-to-openjdk-fc7ae04371a5?source=friends_link&sk=dee025810df6a898e0796dd2586287d7[Traveling the road from Idea all the way to OpenJDK]
 ** See something -- London, May 2013
 ** link:https://mail.openjdk.org/pipermail/lambda-libs-spec-experts/2013-May/001763.html[Say something] -- lambda-lib-spec-experts, May 2013

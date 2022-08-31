@@ -1,17 +1,11 @@
 == Grow the Community
 
-* Network with the larger community
-** Learning to be social can be especially hard in Financial Services
-* Be open and inviting to new contributors
-** Encourage new contributors to socialize their contributions
-* Build katas and tutorials for library consumers and new contributors
+* Network and be social
+* Encourage and be open to new contributors
+* Build katas
 ** link:https://donraab.medium.com/the-eclipse-collections-code-katas-d1539d45d104?source=friends_link&sk=48178021311393617d98b64cf9e87fa9[The Eclipse Collections Code Katas]
 * Mentor and elect new committers
-** Two have been elected for Eclipse Collections since joining the Eclipse Foundation
 * Support the core team of committers
-** Value their time as you do your own
-** Build consensus on direction with the core team
-** Give credit, kudos and thanks publicly and regularly
 
 ---
 
