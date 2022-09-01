@@ -2,6 +2,7 @@
 
 * Network and be social
 * Encourage and be open to new contributors
+** Celebrate every win
 * Build katas
 ** link:https://donraab.medium.com/the-eclipse-collections-code-katas-d1539d45d104?source=friends_link&sk=48178021311393617d98b64cf9e87fa9[The Eclipse Collections Code Katas]
 * Mentor and elect new committers

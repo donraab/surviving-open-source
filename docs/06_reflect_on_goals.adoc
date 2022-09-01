@@ -40,12 +40,12 @@
 |Goal |Focus
 
 |Improve Java Programming Language
-|OpenJDK Quality Outreach program
+|link:https://wiki.openjdk.org/display/quality/Quality+Outreach[OpenJDK Quality Outreach program]
 
 |Grow the Java open source community
-|Blogs, Code Reviews, Katas, Teaching, Talks, Tweets
+|link:https://donraab.medium.com/[Blogs], Code Reviews, link:https://github.com/eclipse/eclipse-collections-kata[Katas], Talks, Tweets
 
-|Enable open source in Financial Services
+|Grow open source in Financial Services
 |OSPOs, Training, Mentoring, Collaboration, Sponsorship, Foundations
 
 |Explore new things
