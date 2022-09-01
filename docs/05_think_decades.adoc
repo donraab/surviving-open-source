@@ -20,4 +20,4 @@
 
 link:./00_toc.adoc[⬆️ TOC] /
 link:04_planning_survival.adoc[⬅️ Planning Survival] /
-link:./06_review_goals.adoc[➡️ Review Goals]
+link:./06_reflect_on_goals.adoc[➡️ Reflect on goals]

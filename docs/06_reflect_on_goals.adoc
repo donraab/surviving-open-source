@@ -43,7 +43,10 @@
 |OpenJDK Quality Outreach program
 
 |Grow the Java open source community
-|Blogs, Code Reviews, Katas, Teaching, Talks, Tweets, OSPOs
+|Blogs, Code Reviews, Katas, Teaching, Talks, Tweets
+
+|Enable open source in Financial Services
+|OSPOs, Training, Mentoring, Collaboration, Sponsorship, Foundations
 
 |Explore new things
 |link:https://donraab.medium.com/my-next-decade-as-a-software-developer-c4a20a98cffe?source=friends_link&sk=3e0f24bfd4b233af4756d66879a0bd35[My next decade as a Software Developer]
