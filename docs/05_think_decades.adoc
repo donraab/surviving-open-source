@@ -2,7 +2,7 @@
 
 image:../assets/ec_committer.png[EC Committer,420,float=right]
 
-=== Eclipse Collections
+=== Eclipse Collections by decade
 * link:A1_oss_story_decadeone.adoc[First decade] -- Development by a Financial Services Firm
 ** Free as in "beer" - link:https://github.com/goldmansachs/gs-collections[GS Collections]
 ** 4 Committers
