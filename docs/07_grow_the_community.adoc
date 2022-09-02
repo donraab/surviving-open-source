@@ -1,13 +1,11 @@
 == Grow the Community
 
 * Be inviting, patient, and kind to new and first time OSS contributors
-* Network and be social
-** Listen, learn, invest time, be authentic, and tell stories
-* Build katas
-** link:https://donraab.medium.com/the-eclipse-collections-code-katas-d1539d45d104?source=friends_link&sk=48178021311393617d98b64cf9e87fa9[The Eclipse Collections Code Katas]
+* Network, be social, and be authentic
+* Build katas to help build confidence
 * Mentor and elect new committers
 * Support the core team of committers
-* Make celebration a collaboration
+* Make celebrations a collaboration
 
 ---
 
