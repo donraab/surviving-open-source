@@ -1,11 +1,19 @@
 == Grow the Community
 
-* Be inviting, patient, and kind to new and first time OSS contributors
-* Network, be social, and be authentic
+image:../assets/oss_contribution.png[OSS Contribution,420,float=right]
+
+* Engage new and first time OSS contributors
+** Be inviting
+** Be patient
+** Be kind
+* Network with the community
+** Be social
+** Be present
+** Be authentic
 * Build katas to help build confidence
 * Mentor and elect new committers
 * Support the core team of committers
-* Make celebrations a collaboration
+* Turn celebrations into collaborations
 
 ---
 

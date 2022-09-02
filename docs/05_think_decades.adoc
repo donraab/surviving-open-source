@@ -1,7 +1,9 @@
 == Think in Decades
 
+image:../assets/ec_committer.png[EC Committer,420,float=right]
+
 * Eclipse Collections
-** link:A1_oss_story_decadeone.adoc[First decade] -- Development by a single Financial Services Firm
+** link:A1_oss_story_decadeone.adoc[First decade] -- Development by a Financial Services Firm
 *** Free as in "beer" - link:https://github.com/goldmansachs/gs-collections[GS Collections]
 *** 4 Committers
 *** ~15 Contributors

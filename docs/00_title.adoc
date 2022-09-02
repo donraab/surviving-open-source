@@ -1,9 +1,8 @@
 = Surviving Open Source
 
-image:../assets/longroad.png[A]
+image:../assets/ec_sign.png[Eclipse Collections Sign]
 
 == IntelliJ IDEA Conf 2022
-=== September 29, 2022
 === Donald Raab
 ---
 

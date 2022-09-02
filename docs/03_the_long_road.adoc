@@ -1,13 +1,13 @@
 == The Long Road of Eclipse Collections
 
-* Keys to survival
-** *Family*, *Grit*, *Committers*, *Storytelling*, *Community*
+image:../assets/icecream.png[Ice Cream Cone,240,float=right]
+
 * Eclipse Collections' Long Road -- 2004 - 2022
-** Caramel - 2004 (Goldman Sachs Proprietary)
-** link:https://github.com/goldmansachs/gs-collections[GS Collections] - 2012 (Goldman Sachs OSS)
-image:../assets/gsc_contributions.png[GS Collections Contribution Graph]
-** link:https://github.com/eclipse/eclipse-collections[Eclipse Collections] - 2015 (OSS at Eclipse Foundation)
-image:../assets/ec_contributions.png[Eclipse Collections Contribution Graph]
+** link:https://github.com/eclipse/eclipse-collections[Eclipse Collections] - 2015 - 2022 (OSS at Eclipse Foundation)
+*** image:../assets/ec_contributions.png[Eclipse Collections Contribution Graph,640]
+** link:https://github.com/goldmansachs/gs-collections[GS Collections] - 2012 - 2016 (Goldman Sachs OSS)
+*** image:../assets/gsc_contributions.png[GS Collections Contribution Graph, 640]
+** *Caramel* - 2004 - 2012 (Goldman Sachs Proprietary)
 
 ---
 
