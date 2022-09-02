@@ -1,16 +1,16 @@
 == Surviving Open Source
 
-* Introduction - Donald Raab
-** Managing Director & Distinguished Engineer, BNY Mellon
-** Creator, Project Lead, Committer for link:https://github.com/eclipse/eclipse-collections[Eclipse Collections]
-** Java Champion (link:https://blogs.oracle.com/java/post/30-new-java-champions-confirmed-in-2018[2018 Edition])
-** Primary representative for BNY Mellon on the link:https://jcp.org/en/participation/committee[JCP Executive Committee]
-** Member of the JSR 335 Expert Group (Lambdas, Streams)
-** Contributing Author, "link:https://www.oreilly.com/library/view/97-things-every/9781491952689/[97 Things Every Java Programmer Should Know]" - O'Reilly
-*** Article: link:https://medium.com/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c?source=friends_link&sk=db77a42b37789576e285cd2e530be53c[Learn to Kata and Kata to Learn]
-** *IntelliJ IDEA User for 20 years*
-** Twitter: link:https://twitter.com/TheDonRaab[TheDonRaab]
-** Medium: link:https://donraab.medium.com[donraab.medium.com]
+=== Introduction - Donald Raab
+* Managing Director & Distinguished Engineer, BNY Mellon
+* Creator, Project Lead, Committer for link:https://github.com/eclipse/eclipse-collections[Eclipse Collections]
+* Java Champion (link:https://blogs.oracle.com/java/post/30-new-java-champions-confirmed-in-2018[2018 Edition])
+* Primary representative for BNY Mellon on the link:https://jcp.org/en/participation/committee[JCP Executive Committee]
+* Member of the JSR 335 Expert Group (Lambdas, Streams)
+* Contributing Author, "link:https://www.oreilly.com/library/view/97-things-every/9781491952689/[97 Things Every Java Programmer Should Know]" - O'Reilly
+** Article: link:https://medium.com/97-things/learn-to-kata-and-kata-to-learn-73c98a69e44c?source=friends_link&sk=db77a42b37789576e285cd2e530be53c[Learn to Kata and Kata to Learn]
+* *IntelliJ IDEA User for 20 years*
+* Twitter: link:https://twitter.com/TheDonRaab[TheDonRaab]
+* Medium: link:https://donraab.medium.com[donraab.medium.com]
 
 ---
 

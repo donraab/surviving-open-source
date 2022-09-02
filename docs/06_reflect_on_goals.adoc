@@ -1,6 +1,7 @@
 == Reflect on goals
 
-* My Goals in 2017 - From "link:https://www.slideshare.net/finosfoundation/they-cant-hear-you-on-mute-96411236[They can't hear you on mute]" -- Open Source Strategy Forum 2017
+=== My Goals in 2017
+* From "link:https://www.slideshare.net/finosfoundation/they-cant-hear-you-on-mute-96411236[They can't hear you on mute]" -- Open Source Strategy Forum 2017
 
 |===
 |Goal |Status |Result
@@ -34,7 +35,7 @@
 |Not feasible without funding/support
 |===
 
-* My Goals in 2022
+=== My Goals in 2022
 
 |===
 |Goal |Focus

@@ -2,6 +2,7 @@
 
 image:../assets/selfcare.png[Bike,320,float=right]
 
+=== You deserve it!
 * Take breaks
 * Spend time with family and friends
 * Exercise regularly

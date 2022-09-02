@@ -2,19 +2,21 @@
 
 image:../assets/ec_thankyou.png[Cups and Stickers,420,float=right]
 
-* Wins are everywhere--don't leave them uncelebrated!
-* Celebrate
-** Code Contributions
-** Library usage
-** Documentation, Graphics
-** Web site language translations
-** Articles, Blogs, Talks, Advocacy
-** Milestones, Anniversaries
-** Code reviews
-** Releases
-** Tweets
-** Facilitation
-** Sponsorship
+=== Wins are everywhere!
+* Don't leave them uncelebrated!
+
+=== Appreciate
+* Code Contributions
+* Library usage
+* Documentation, Graphics
+* Web site language translations
+* Articles, Blogs, Talks, Advocacy
+* Milestones, Anniversaries
+* Code reviews
+* Releases
+* Tweets
+* Facilitation
+* Sponsorship
 
 ---
 

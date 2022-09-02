@@ -2,14 +2,17 @@
 
 image:../assets/oss_contribution.png[OSS Contribution,420,float=right]
 
-* Engage new and first time OSS contributors
-** Be inviting
-** Be patient
-** Be kind
-* Network with the community
-** Be social
-** Be present
-** Be authentic
+=== Engage new and first time OSS contributors
+* Be inviting
+* Be patient
+* Be kind
+
+=== Network with the community
+* Be social
+* Be present
+* Be authentic
+
+=== Build a legacy
 * Build katas to help build confidence
 * Mentor and elect new committers
 * Support the core team of committers
