@@ -3,10 +3,12 @@
 image:../assets/selfcare.png[Bike,320,float=right]
 
 === You deserve it!
+* Optimal work environment for you
 * Take breaks
 * Spend time with family and friends
 * Exercise regularly
 * Do things that bring you link:https://donraab.medium.com/the-joy-of-programming-64cd5949bc78?source=friends_link&sk=42098cfc793ca23b32493e8563711328[joy]
+* Celebrate your personal wins
 * Encourage the same for your committers and contributors
 
 ---
