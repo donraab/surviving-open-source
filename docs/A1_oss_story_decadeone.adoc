@@ -9,7 +9,6 @@
 * 2014 -- Java 8 Released w/ Lambdas and Streams
 * 2014 -- JavaOne -- Participated in Strategy Keynote & first JavaOne presentation on GSC w/ Craig Motlin
 * 2014 -- InfoQ articles: GS Collections by Example - link:https://www.infoq.com/articles/GS-Collections-by-Example-1/[Part 1] / link:https://www.infoq.com/articles/GS-Collections-by-Example-2/[Part 2]
-** image:../assets/gsc_stars.png[GS Collections GitHub stars,640]
 
 ---
 
