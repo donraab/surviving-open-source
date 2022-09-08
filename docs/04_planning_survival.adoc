@@ -1,5 +1,7 @@
 == Planning for Survival
 
+image:../assets/karaoke.png[Karaoke,420,float=right]
+
 === Success is goal oriented
 * Keys to success -- *Passion*, *Patience*, *Persistence*
 

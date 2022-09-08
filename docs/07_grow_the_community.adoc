@@ -1,8 +1,8 @@
 == Grow the Community
 
-image:../assets/oss_contribution.png[OSS Contribution,420,float=right]
+image:../assets/oss_contribution.png[OSS Contribution,480,float=right]
 
-=== Engage new and first time OSS contributors
+=== Engage new OSS contributors
 * Be inviting
 * Be patient
 * Be kind
