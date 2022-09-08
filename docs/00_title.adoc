@@ -2,10 +2,9 @@
 
 image:../assets/ec_sign.png[Eclipse Collections Sign]
 
-== IntelliJ IDEA Conf 2022
 === Donald Raab
 ---
 
 link:01_intro.adoc[➡️ Introduction]
 
-===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]
+===== link:https://twitter.com/TheDonRaab[@TheDonRaab]

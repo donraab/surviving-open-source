@@ -15,5 +15,5 @@
 * link:A0_appendix.adoc[Appendix]
 
 ---
-===== link:https://twitter.com/hashtag/IntelliJIDEAConf[#IntelliJIDEAConf] link:https://twitter.com/TheDonRaab[@TheDonRaab]
+===== link:https://twitter.com/TheDonRaab[@TheDonRaab]
 
