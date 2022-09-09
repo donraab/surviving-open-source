@@ -1,15 +1,15 @@
-== Let it go
+== Let it G~r~O~w~
 
 image:../assets/let_it_go.png[Let it go, 420, float=right]
 
 === To do list
 * Plan for your work to survive without you
-* Prepare the core team to take the lead
+* Create the space to allow others to take the lead
 * Share all that you've learned
 ** link:https://medium.com/javarevisited/blog-series-the-missing-java-data-structures-no-one-ever-told-you-about-17f34cc4b7e2?source=friends_link&sk=9403ae8464ae3477bfc1e52119c1576d[The missing Java data structures no one ever told you about]
 ** link:https://medium.com/oracledevs/visualizing-eclipse-collections-646dad9533a9?source=friends_link&sk=3370a5e8bb5a516e6b5d7040f7d0955b[Visualizing Eclipse Collections]
 ** link:https://medium.com/oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d?source=friends_link&sk=e757519e99cc2cea9d73f1d93d6190a3[Ten reasons to use Eclipse Collections]
-* Don't leave... Just let it go
+* Don't leave... Just let it grow
 ** link:https://donraab.medium.com/sending-the-open-source-library-i-created-off-to-college-a398bba5e518?source=friends_link&sk=b3dcb2a4da864e38ee23e6705dae3bf2[Sending the open source library I created off to college]
 
 ---

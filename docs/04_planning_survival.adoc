@@ -15,7 +15,7 @@ image:../assets/karaoke.png[Karaoke,420,float=right]
 * Celebrate wins
 * Prioritize self care
 * Look for forks in the road
-* Let it go
+* Let it grow
 
 ---
 

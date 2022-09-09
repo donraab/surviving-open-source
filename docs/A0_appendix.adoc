@@ -7,5 +7,5 @@
 ---
 
 link:./00_toc.adoc[⬆️ TOC] /
-link:11_let_it_go.adoc[⬅️ Let it go] /
+link:11_let_it_grow.adoc[⬅️ Let it grow] /
 link:./A1_oss_story_decadeone.adoc[➡️ An OSS Story - Decade one]
