@@ -8,11 +8,11 @@
 
 |Improve Java Programming Language
 |On-going
-|[.line-through]#Java 8#, [.line-through]#Java 9#...
+|[.line-through]#Java 8, 9#...
 
 |Achieve Smalltalk productivity level
-|#Complete#
-|GS Collections
+|#Complete (Collections only)#
+|Eclipse Collections
 
 |Get Lambdas into Java
 |#Complete#
@@ -20,7 +20,7 @@
 
 |Build a community of users
 |On-going
-|GS Collections & Eclipse Collections
+|Eclipse Collections
 
 |"Free as in speech"
 |#Complete#
@@ -32,7 +32,7 @@
 
 |Create JSR for Collections 2.0
 |#Abandoned#
-|Not feasible without funding/support
+|Not feasible without funding and support
 |===
 
 === My Goals in 2022
