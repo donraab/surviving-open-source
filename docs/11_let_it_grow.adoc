@@ -1,4 +1,4 @@
-== Let it G~r~O~w~
+== Let it G^r^O~w~
 
 image:../assets/let_it_go.png[Let it go, 420, float=right]
 
