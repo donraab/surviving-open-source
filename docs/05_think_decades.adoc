@@ -12,8 +12,8 @@ image:../assets/ec_committer.png[EC Committer,420,float=right]
 ** 6 Committers, 100 Contributors
 ** ~220K downloads per month
 * Third Decade -- Community driven at the Eclipse Foundation
-** Free as in "me" - It's time to let the community drive
-** link:https://donraab.medium.com/the-next-5-years-for-eclipse-collections-a1f3ce896c2c?source=friends_link&sk=9c250b7bcfc76635e2fe4bc568342d4f[The next 5 years for Eclipse Collections] - some of my thoughts on potential work in the library
+** Free as in "me" - Let the community drive
+** link:https://donraab.medium.com/the-next-5-years-for-eclipse-collections-a1f3ce896c2c?source=friends_link&sk=9c250b7bcfc76635e2fe4bc568342d4f[The next 5 years for Eclipse Collections]
 ** More Consumers, Contributors and Committers wanted!
 
 ---
