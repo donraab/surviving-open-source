@@ -3,7 +3,7 @@
 image:../assets/ec_sign.png[Eclipse Collections Sign]
 
 === Donald Raab
-==== IntelliJ IDEA Conference 2022
+==== IntelliJ IDEA Conf 2022
 ---
 
 link:01_intro.adoc[➡️ Introduction]
