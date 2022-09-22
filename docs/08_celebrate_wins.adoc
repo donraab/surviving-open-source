@@ -1,20 +1,18 @@
 == Celebrate Wins
 
-image:../assets/ec_thankyou.png[Cups and Stickers,420,float=right]
+image:../assets/ec_thankyou.png[Cups and Stickers,350,float=right]
 
-=== Wins are everywhere!
-* Don't leave them uncelebrated!
+==== Wins are everywhere!
 
-=== Appreciate
+==== Appreciate
 * Code Contributions
 * Library usage
-* Documentation, Graphics
+* Content contributions
 * Web site language translations
-* Articles, Blogs, Talks, Advocacy
-* Milestones, Anniversaries
+* Advocacy
+* Milestones
 * Code reviews
 * Releases
-* Tweets
 * Facilitation
 * Sponsorship
 

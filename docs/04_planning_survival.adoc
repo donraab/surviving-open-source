@@ -1,14 +1,14 @@
 == Planning for Survival
 
-image:../assets/karaoke.png[Karaoke,420,float=right]
+image:../assets/karaoke.png[Karaoke,350,float=right]
 
-=== Success is goal oriented
+==== Success is goal oriented
 * Keys to success -- *Passion*, *Patience*, *Persistence*
 
-=== Survival is journey oriented
+==== Survival is journey oriented
 * Keys to survival -- *People*, *Purpose*, *Progress*, *Perseverance*
 
-=== Planning a long journey
+==== Planning a long journey
 * Think in decades
 * Reflect on goals
 * Grow the Community

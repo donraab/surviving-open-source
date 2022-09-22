@@ -1,6 +1,6 @@
 == Surviving Open Source
 
-=== Introduction - Donald Raab
+==== Introduction - Donald Raab
 * Managing Director & Distinguished Engineer, BNY Mellon
 * Creator, Project Lead, Committer for link:https://github.com/eclipse/eclipse-collections[Eclipse Collections]
 * Java Champion (link:https://blogs.oracle.com/java/post/30-new-java-champions-confirmed-in-2018[2018 Edition])

@@ -1,0 +1,11 @@
+== Look for forks in the road - Part 2
+
+* ```RandomAccessSpliterator``` in ```AbstractList``` -- Java 9, September 2017
+image:../assets/ras.png[RandomAccessSpliterator,700]
+* It's necessarily hard, but possible to get an idea into the OpenJDK if you have passion, patience and persistence
+
+---
+
+link:./00_toc.adoc[⬆️ TOC] /
+link:10_look_for_forks.adoc[⬅️ Look for forks - Part 1] /
+link:11_let_it_grow.adoc[➡️ Let it grow]

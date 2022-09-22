@@ -1,18 +1,14 @@
 == Grow the Community
 
-image:../assets/oss_contribution.png[OSS Contribution,480,float=right]
+image:../assets/oss_contribution.png[OSS Contribution,350,float=right]
 
-=== Engage new OSS contributors
-* Be inviting
-* Be patient
-* Be kind
+==== Engage new OSS contributors
+* Be inviting, patient and kind
 
-=== Network with the community
-* Be social
-* Be present
-* Be authentic
+==== Network with the community
+* Be social, present, and authentic
 
-=== Build a legacy
+==== Build a legacy
 * Build katas to help build confidence
 * Mentor and elect new committers
 * Support the core team of committers

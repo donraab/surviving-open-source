@@ -1,11 +1,11 @@
-== Reflect on goals
+== Reflect on goals - Past
 
-==== My Goals in 2017
+===== My Goals in 2017
 
 |===
 |Goal |Status |Result
 
-|Improve Java Programming Language
+|Help improve Java
 |On-going
 |[.line-through]#Java 8, 9#...
 
@@ -13,7 +13,7 @@
 |#Complete (Collections only)#
 |Eclipse Collections
 
-|Get Lambdas into Java
+|Help get Lambdas into Java
 |#Complete#
 |Java 8 (JSR 335)
 
@@ -34,24 +34,8 @@
 |Requires funding and support
 |===
 
-==== My Goals in 2022
-
-|===
-|Goal |Focus
-
-|Improve Java Programming Language
-|link:https://wiki.openjdk.org/display/quality/Quality+Outreach[OpenJDK Quality Outreach program]
-
-|Grow the Java open source community
-|link:https://donraab.medium.com/[Blogs], Code Reviews, link:https://github.com/eclipse/eclipse-collections-kata[Katas], Talks, Tweets
-
-|Explore new things
-|link:https://donraab.medium.com/my-next-decade-as-a-software-developer-c4a20a98cffe?source=friends_link&sk=3e0f24bfd4b233af4756d66879a0bd35[My next decade as a Software Developer]
-
-|===
-
 ---
 
 link:./00_toc.adoc[⬆️ TOC] /
 link:05_think_decades.adoc[⬅️ Think Decades] /
-link:./07_grow_the_community.adoc[➡️ Grow the Community]
+link:./06a_reflect_on_goals.adoc[➡️ Reflect on goals - Today]

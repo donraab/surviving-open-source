@@ -1,6 +1,6 @@
-== Many Open Source Journeys
+== Open Source Journeys
 
-=== Many paths available
+==== Many paths available
 * Consumer
 * Advocate
 * Contributor
@@ -10,7 +10,7 @@
 * Facilitator
 * Creator - *"The Long Road"*
 
-=== Great examples of *"The Long Road"* in the Java ecosystem
+==== Great examples of *"The Long Road"* in the Java ecosystem
 * OpenJDK, JUnit, JakartaEE, NetBeans, Eclipse, Tomcat, Log4J, EclipseLink, Hibernate, Spring, Apache Commons, Groovy, Google Guava, Hadoop, IntelliJ IDEA, Neo4J, Cassandra, Kafka, Jackson
 
 ---
